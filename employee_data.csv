@@ -1,0 +1,21 @@
+id,name,department,salary,sales,age
+1,Ali Raza,Sales,52000,184000,29
+2,Sara Khan,Sales,61000,226500,34
+3,Usman Tariq,Marketing,48000,97000,27
+4,Ayesha Malik,Engineering,95000,0,31
+5,Hamza Iqbal,Engineering,88000,0,28
+6,Fatima Noor,HR,45000,0,36
+7,Bilal Ahmed,Sales,,143000,25
+8,Zainab Ali,Marketing,51000,N/A,30
+9,Hassan Sheikh,Engineering,102000,0,41
+10,Mariam Aslam,Sales,58000,198000,33
+11,Omar Farooq,HR,47000,0,39
+12,Hina Javed,Marketing,53000,112500,26
+13,Danish Mehmood,Sales,abc,167000,32
+14,Noor Fatima,Engineering,91000,0,
+15,Kamran Butt,Marketing,49500,89000,35
+16,Sana Rashid,HR,46000,0,29
+17,Faisal Rehman,Sales,55000,175000,37
+18,Iqra Yousaf,Engineering,97000,0,30
+19,Talha Siddiqui,Marketing,,104000,28
+20,Rabia Anwar,Sales,60000,,31

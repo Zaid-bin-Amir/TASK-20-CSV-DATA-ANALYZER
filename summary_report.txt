@@ -1,0 +1,44 @@
+==================================================
+EMPLOYEE DATA SUMMARY REPORT
+==================================================
+Total records: 20
+
+SALARY
+  Valid values : 17
+  Skipped      : 3
+  Total        : 1,098,500.00
+  Average      : 64,617.65
+  Highest      : 102,000.00
+  Lowest       : 45,000.00
+
+SALES
+  Valid values : 18
+  Skipped      : 2
+  Total        : 1,496,000.00
+  Average      : 83,111.11
+  Highest      : 226,500.00
+  Lowest       : 0.00
+
+AGE
+  Valid values : 19
+  Skipped      : 1
+  Total        : 601.00
+  Average      : 31.63
+  Highest      : 41.00
+  Lowest       : 25.00
+
+Highest salary: Hassan Sheikh (102,000.00)
+Highest sales : Sara Khan (226,500.00)
+
+EMPLOYEES PER DEPARTMENT
+  Engineering  5
+  HR           3
+  Marketing    5
+  Sales        7
+
+AVERAGE SALARY PER DEPARTMENT
+  Engineering  94,600.00
+  HR           46,000.00
+  Marketing    50,375.00
+  Sales        57,200.00
+==================================================
